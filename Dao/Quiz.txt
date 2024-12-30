@@ -1,0 +1,24 @@
+MCQ|What are the two main components of a computer?|Hardware and Firmware,Software and Peripherals,Hardware and Software,Input and Output devices|Hardware and Software
+MCQ|Who is often referred to as the "father of the computer"?|Alan Turing,Charles Babbage,John Napier,Grace Hopper|Charles Babbage
+MCQ|Which component is considered the 'brain' of the computer?|RAM,Hard Disk,CPU,Monitor|CPU
+MCQ|Which generation of computers introduced integrated circuits?|First,Second,Third,Fourth|Third
+MCQ|What is the purpose of an assembler in programming?|To convert high-level language to machine language,To convert machine language to assembly language,To convert assembly language to machine language,To execute high-level language programs directly|To convert assembly language to machine language
+MCQ|Which microprocessor was introduced in 1971?|Intel 8008,Intel 8080,Intel 4004,Intel Pentium|Intel 4004
+MCQ|Which operating system was released in the mid-1990s and became widely accepted for PCs?|Windows XP,Windows 95,OS X,UNIX|Windows 95
+MCQ|What type of programming language uses English-like abbreviations and basic instructions?|High-Level Languages,Machine Languages,Assembly Languages,Scripting Languages|Assembly Languages
+FITB|A computer comprises two main components are _____ and software.|hardware
+FITB|The _____ invented around 3000 BC, is considered the earliest form of a computing device.|abacus
+FITB|The first fully electronic digital computer built in the U.S. was the _____.|UNIVAC
+FITB|Modern processors, like the Pentium IV, have _____ of transistors compared to the Intel 4004.|millions
+FITB|The introduction of the MITS _____ in 1975 marked the beginning of personal computing.|Altair
+FITB|_____ is a widely accepted graphical user interface (GUI) released in the mid-1990s.|Windows 95
+FITB|The _____ is the central part of a computer that processes instructions.|CPU
+FITB|_____ programming languages use single statements to accomplish substantial tasks.|High-level
+TF|The Jacquard Loom used punched metal cards to store programs.|true
+TF|The second generation of computers was characterized by the use of integrated circuits.|false
+TF|The Apple II was introduced in 1977 and made significant contributions to personal computing.|true
+TF|Assembly languages are machine-independent and do not require translators.|false
+TF|Personal Digital Assistants (PDAs) emerged as a significant advancement in portable computing.|true
+TF|Machine languages are easy for humans to understand and write.|false
+TF|Grace Hopper was a key figure in the programming of the ENIAC.|false
+TF|Networking and Internet speeds increased significantly entering the 21st century.|true
